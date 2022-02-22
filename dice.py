@@ -1,0 +1,36 @@
+def gotSix():
+    print("-------")
+    print("|*   *|")
+    print("|*   *|")
+    print("|*   *|")
+    print("-------")
+def gotFive():
+    print("-------")
+    print("|*   *|")
+    print("|  *  |")
+    print("|*   *|")
+    print("-------")
+def gotFour():
+    print("-------")
+    print("|*   *|")
+    print("|     |")
+    print("|*   *|")
+    print("-------")
+def gotThree():
+    print("-------")
+    print("|    *|")
+    print("|  *  |")
+    print("|*    |")
+    print("-------")
+def gotTwo():
+    print("-------")
+    print("|*    |")
+    print("|     |")
+    print("|    *|")
+    print("-------")
+def gotOne():
+    print("-------")
+    print("|     |")
+    print("|  *  |")
+    print("|     |")
+    print("-------")
